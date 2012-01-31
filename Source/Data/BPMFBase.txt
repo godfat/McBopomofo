@@ -1298,6 +1298,7 @@
 嵽 ㄉㄧˋ di4 2u4 big5
 珶 ㄉㄧˋ di4 2u4 big5
 甋 ㄉㄧˋ di4 2u4 big5
+坔 ㄉㄧˋ di4 2u4 big5
 的 ㄉㄧˊ di2 2u6 big5
 敵 ㄉㄧˊ di2 2u6 big5
 迪 ㄉㄧˊ di2 2u6 big5
@@ -2043,6 +2044,7 @@
 鸅 ㄓㄜˊ zhe2 5k6 big5
 讘 ㄓㄜˊ zhe2 5k6 big5
 瓋 ㄓㄜˊ zhe2 5k6 big5
+喆 ㄓㄜˊ zhe2 5k6 big5
 著 ㄓㄜ˙ zhe5 5k7 big5
 遮 ㄓㄜ˙ zhe5 5k7 big5
 晢 ㄓㄜ˙ zhe5 5k7 big5
@@ -3724,6 +3726,7 @@
 黑 ㄏㄟ hei co big5
 嘿 ㄏㄟ hei co big5
 潶 ㄏㄟ hei co big5
+黒 ㄏㄟ hei co big5
 黑 ㄏㄟˇ hei3 co3 big5
 很 ㄏㄣˇ hen3 cp3 big5
 狠 ㄏㄣˇ hen3 cp3 big5
@@ -7670,6 +7673,7 @@
 岶 ㄆㄛˋ po4 qi4 big5
 烞 ㄆㄛˋ po4 qi4 big5
 蒪 ㄆㄛˋ po4 qi4 big5
+釙 ㄆㄛˋ po4 qi4 big5
 婆 ㄆㄛˊ po2 qi6 big5
 鄱 ㄆㄛˊ po2 qi6 big5
 皤 ㄆㄛˊ po2 qi6 big5
@@ -7714,7 +7718,6 @@
 蒱 ㄆㄨˊ pu2 qj6 big5
 襆 ㄆㄨˊ pu2 qj6 big5
 酺 ㄆㄨˊ pu2 qj6 big5
-釙 ㄆㄨˊ pu2 qj6 big5
 鏷 ㄆㄨˊ pu2 qj6 big5
 轐 ㄆㄨˊ pu2 qj6 big5
 纀 ㄆㄨˊ pu2 qj6 big5
@@ -8611,6 +8614,7 @@
 襺 ㄐㄧㄢˇ jian3 ru03 big5
 暕 ㄐㄧㄢˇ jian3 ru03 big5
 瑐 ㄐㄧㄢˇ jian3 ru03 big5
+彅 ㄐㄧㄢˇ jian3 ru03 utf8
 見 ㄐㄧㄢˋ jian4 ru04 big5
 建 ㄐㄧㄢˋ jian4 ru04 big5
 健 ㄐㄧㄢˋ jian4 ru04 big5
@@ -9106,6 +9110,7 @@
 莮 ㄋㄢˊ nan2 s06 big5
 那 ㄋㄚˇ na3 s83 big5
 哪 ㄋㄚˇ na3 s83 big5
+雫 ㄋㄚˇ na3 s83 utf8
 那 ㄋㄚˋ na4 s84 big5
 納 ㄋㄚˋ na4 s84 big5
 吶 ㄋㄚˋ na4 s84 big5
@@ -12481,6 +12486,7 @@
 纜 ㄌㄢˋ lan4 x04 big5
 鑭 ㄌㄢˋ lan4 x04 big5
 爁 ㄌㄢˋ lan4 x04 big5
+坔 ㄌㄢˋ lan4 x04 big5
 壏 ㄌㄢˋ lan4 x04 big5
 蘭 ㄌㄢˊ lan2 x06 big5
 籃 ㄌㄢˊ lan2 x06 big5
@@ -13175,7 +13181,6 @@
 唎 ㄌㄧˋ li4 xu4 big5
 屴 ㄌㄧˋ li4 xu4 big5
 躒 ㄌㄧˋ li4 xu4 big5
-釙 ㄌㄧˋ li4 xu4 big5
 鬲 ㄌㄧˋ li4 xu4 big5
 皪 ㄌㄧˋ li4 xu4 big5
 秝 ㄌㄧˋ li4 xu4 big5
@@ -13855,6 +13860,7 @@
 瞂 ㄈㄚ fa z8 big5
 法 ㄈㄚˇ fa3 z83 big5
 髮 ㄈㄚˇ fa3 z83 big5
+鍅 ㄈㄚˇ fa3 z83 big5
 法 ㄈㄚˋ fa4 z84 big5
 琺 ㄈㄚˋ fa4 z84 big5
 乏 ㄈㄚˊ fa2 z86 big5
