@@ -4,10 +4,11 @@
 int main ( int argc, char** argv )
 {
    int myCount=0;
-   char* myQuery=argv[1];
+   char* myQuery=argv[2];
    //fputs (argv[1], stdout);
    //if (0){
-   static const char filename[] = "/Volumes/ramdisk/newTEXT.txt";
+   //static const char filename[] = "/Volumes/ramdisk/newTEXT.txt";
+   char* filename = argv[1];
    FILE *file = fopen ( filename, "r" );
    if ( file != NULL )
    {
@@ -18,7 +19,7 @@ int main ( int argc, char** argv )
          //fputs ( line, stdout ); /* write the line */
          myCount+=match(line,myQuery);
       }
-      printf("%s    %d\n",myQuery,myCount);
+      printf("%s	%d\n",myQuery,myCount);
       fclose ( file );
    }
    else
